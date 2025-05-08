@@ -1,0 +1,18 @@
+.bg {
+    background-image: url('img/library_cloned-3200x1600_16x9.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 90vh;
+}
+
+.R{
+color: #ff3131;
+}
+
+.P{
+    color: #8c52ff;
+    }
+
+.B{
+        color: #38b6ff
+        }
