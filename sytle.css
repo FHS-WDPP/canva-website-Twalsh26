@@ -5,6 +5,13 @@
     min-height: 90vh;
 }
 
+.black-bg {
+border-radius: 25px;
+background-color: rgba(0,0,0,0.5);
+}
+
+
+
 .R{
 color: #ff3131;
 }
@@ -16,3 +23,6 @@ color: #ff3131;
 .B{
         color: #38b6ff
         }
+.W {
+    color: #ffff;
+}
