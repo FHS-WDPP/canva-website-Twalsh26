@@ -26,3 +26,25 @@ color: #ff3131;
 .W {
     color: #ffff;
 }
+
+.libre-bodoni-uniquifier {
+    font-family: "Libre Bodoni", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+  .archivo-black-regular {
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .BC {
+    height: 600px;
+    width: 500px;
+  }
+
+.SG {
+    text-align: right;
+  }
